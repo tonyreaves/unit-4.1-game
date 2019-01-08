@@ -1,0 +1,12 @@
+body {
+  background: black;
+}
+
+h1 {
+  color: white;
+}
+
+.container {
+  background: white;
+  border: 0.2rem solid red;
+}
